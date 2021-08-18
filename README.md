@@ -18,7 +18,7 @@ How to use the script? IT'S EASY!!! :
 2. Then start GTA ONLINE and take out your phone, go to contacts and start clicking the up arrow while counting how many times you clicked until you reach the selected contact.
 
 
-EXAMPLE:
+		EXAMPLE:
 - You want to set the Mechanic: You take out the phone, enter the contacts and click the arrow up, counting the number of times you clicked until you come into contact with the mechanic.
 - Then you switch the window to the Facilate v1.5 configuration and enter the number you get from the calculations.
 
