@@ -6,6 +6,7 @@
 ---------------------------------------------------------------------------------------
 
 Game version the script is compatible with: 1.57
+
 Script Version: v1.5
 
 Script designed to be used in GTA ONLINE as a macro. Only works when the game is started.
@@ -52,6 +53,7 @@ This text file is in the script files !!!
 ---------------------------------------------------------------------------------------
 
 Wersja gry z ktora skrypt jest kompatybilny: 1.57 
+
 Wersja Skryptu: v1.5
 
 Skrypt stworzony do uzywania w GTA ONLINE jako makro. Dziala tylko po uruchomieniu gry.
