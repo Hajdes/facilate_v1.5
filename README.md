@@ -1,4 +1,4 @@
-If config file doesn't work uninstall script, download it from this: , and it should work. Idk why it is like this.
+If config file doesn't work uninstall script, download it from this: https://mega.nz/file/DQw0iQ5L#Mm604vTLrh3K2FHMd6ucK3A3B1Oq60JkmBHZfvmMISA, and it should work. Idk why it is like this.
 
 
 # facilate_v1.5 - ENGLISH
