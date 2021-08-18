@@ -1,4 +1,4 @@
-If config file doesn't work:
+If configuration doesn't save:
 1. Open folder where you installed script, config file and write your numbers.
 2. If 1 way doesn't work uninstall script, download it from this: https://mega.nz/file/DQw0iQ5L#Mm604vTLrh3K2FHMd6ucK3A3B1Oq60JkmBHZfvmMISA 
    and it should work. Idk why it is like this.
@@ -50,6 +50,12 @@ This text file is in the script files !!!
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
+
+Jeżeli konfiguracja się nie zapisuje:
+1. Otwórz folder gdzie zainstalowałeś skrypt, otwórz plik config i wpisz swoje numery.
+2. Jeżeli 1 sposób nie działa odinstaluj skrypt, pobierz plik z tąd i zainstaluj: 
+3. https://mega.nz/file/DQw0iQ5L#Mm604vTLrh3K2FHMd6ucK3A3B1Oq60JkmBHZfvmMISA 
+ powinno zadziałać. Nie wiem dlaczego tak się dzieje.
 
 # facilate_v1.5 - POLISH
 ***************************************************************************************
