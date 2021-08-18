@@ -11,7 +11,6 @@ Script Version: v1.5
 Script designed to be used in GTA ONLINE as a macro. Only works when the game is started.
 ***************************************************************************************
 
-
 How to use the script? IT'S EASY!!! :
 
 1. After installing and running it, go to the configuration tab and select the buttons for which you want the functions.
@@ -57,13 +56,6 @@ Wersja Skryptu: v1.5
 
 Skrypt stworzony do uzywania w GTA ONLINE jako makro. Dziala tylko po uruchomieniu gry.
 ***************************************************************************************
-
-
-How to use the script? IT'S EASY!!! :
-
-1. After installing and running it, go to the configuration tab and select the buttons for which you want the functions.
-2. Then start GTA ONLINE and take out your phone, go to contacts and start clicking the up arrow while counting how many times you clicked until you reach the selected contact.
-
 
 Jak uzywac skryptu? TO PROSTE!!! :
 
