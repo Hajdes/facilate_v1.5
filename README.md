@@ -1,3 +1,6 @@
+If config file doesn't work uninstall script, download it from this: , and it should work. Idk why it is like this.
+
+
 # facilate_v1.5 - ENGLISH
 ***************************************************************************************
 
